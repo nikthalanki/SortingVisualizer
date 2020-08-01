@@ -11,8 +11,8 @@ let WINDOW_HEIGHT = window.innerHeight;
 let NUMBER_OF_ARRAY_BARS = 50;
 
 
-const PRIMARY_COLOR = 'hotpink'; //Normal color of bars
-const SECONDARY_COLOR = 'black'; //Color of bars when they are being compared
+const PRIMARY_COLOR = '#DAA520'; //Normal color of bars
+const SECONDARY_COLOR = 'Blue'; //Color of bars when they are being compared
 const ANIMATION_SPEED_MS = 5; //Animation Speed (how fast color changes, how fast height gets overwritten)
 
 //Tooltips for buttons
